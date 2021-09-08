@@ -1,0 +1,24 @@
+form.new-post {
+    padding: 0px 300px;
+}
+
+h4.title {
+    margin: 10px;
+    text-align: center;
+}
+
+div.input-group {
+    margin: 16px;
+}
+
+button {
+    margin-left: 16px;
+    background-color: #65bbaa!important;
+    border-color: #65bbaa!important;
+}
+
+button:hover {
+    margin-left: 16px;
+    background-color: #459787!important;
+    border-color: #459787!important;
+}

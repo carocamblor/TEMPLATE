@@ -1,0 +1,60 @@
+div.card {
+    margin: 16px;
+}
+
+div.card div.title {
+    font-family: georgia;
+    font-weight: bold;
+    font-size: x-large;
+}
+
+div.card-body {
+    display: grid;
+    grid-template-columns: 20% 55% 20%;
+    gap: 16px;
+    width: 100%;
+    justify-content: space-between;
+}
+
+.card-body hr {
+    margin: 5px 0px;
+}
+
+p.post-username-comment {
+  display: inline;
+  font-size: 13px;
+  font-weight: bold;
+}
+
+p.post-comment-content {
+  display: inline;
+  font-size: 13px;
+}
+
+p.description {
+    margin-top: 5px;
+}
+
+.instructions-title, .leave-comment-title {
+    margin-top: 5px;
+}
+
+a.streched-link {
+    color: palevioletred;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+div.input-group {
+    margin: 5px 0px;
+}
+
+button {
+    background-color: #65bbaa!important;
+    border-color: #65bbaa!important;
+}
+
+button:hover {
+    background-color: #459787!important;
+    border-color: #459787!important;
+}
